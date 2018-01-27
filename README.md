@@ -7,7 +7,7 @@ React SPA click game,
 Game of Thrones theme,
 
 utilizes KnuthYates shuffle,
-![img](/public/ES6 Knuth Yates shuffle implemented.PNG)
+![img](/public/ES6-Knuth-Yates-shuffle-implemented.PNG)
 
 utilizes material-ui for react components
 ![img](/public/GOT-clicky.PNG)
